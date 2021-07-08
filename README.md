@@ -27,7 +27,7 @@ Please complete the following tasks to help us better address your Android exper
 _Please add here any comments about decisions you made while implementing the requested changes, reasoning about any dependencies you may have added to the project, any issues you may have faced, problematic code you would like to change..._
 
 - Disclaimers :- 
- 1. Sorry I took more than 4 hours about 5-6 hours , I was enjoying the task .
+ 1. Sorry I took more than 4 hours (about 5-6 hours) , I was enjoying the task .
  2. Copied some generic code from my templete project
  3. Didn't clean up code because of time 
  
