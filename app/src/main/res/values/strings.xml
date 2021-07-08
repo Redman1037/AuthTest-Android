@@ -1,17 +1,25 @@
 <resources>
     <string name="app_name">AuthTest</string>
 
+
+    <string name="err_msg_no_network">No network</string>
+    <string name="err_msg_something_went_wrong">Something went wrong</string>
+
+
     <string name="signup_title">Create an account</string>
     <string name="signup_email_hint">E-mail address</string>
     <string name="signup_name_hint">First Name</string>
     <string name="signup_surname_hint">Last Name</string>
     <string name="signup_gender_hint">Gender</string>
-    <string name="signup_gender_validation_empty_field">This field is empty!</string>
+    <string name="signup_validation_empty_field">This field is empty!</string>
+    <string name="signup_validation_invalid_field">This field is invalid!</string>
     <string name="signup_cta">SIGNUP</string>
+    <string name="signup_error_select_gender">Please select gender</string>
 
     <string name="home_title">Welcome!</string>
     <string name="home_logout">Logout</string>
     <string name="home_last_name">Last Name:</string>
     <string name="home_first_name">First Name:</string>
     <string name="home_avatar">Avatar:</string>
+    <string name="signup_success_msg">SignUp success</string>
 </resources>

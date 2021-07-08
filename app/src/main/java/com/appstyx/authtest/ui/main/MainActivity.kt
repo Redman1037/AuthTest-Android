@@ -9,7 +9,9 @@ import com.appstyx.authtest.ui.home.HomeFragment
 import com.appstyx.authtest.ui.main.MainViewModel.Destination.Home
 import com.appstyx.authtest.ui.main.MainViewModel.Destination.Signup
 import com.appstyx.authtest.ui.signup.SignupFragment
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private val viewModel by viewModels<MainViewModel>()
@@ -18,10 +20,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        initViewModelObservers()
+//        initViewModelObservers()
     }
 
-    private fun initViewModelObservers() {
+ /*   private fun initViewModelObservers() {
         val lifecycleOwner: LifecycleOwner = this
         with(viewModel) {
             changeDestinationEvent.observe(lifecycleOwner) { destination ->
@@ -36,5 +38,6 @@ class MainActivity : AppCompatActivity() {
                     .commit()
             }
         }
-    }
+    }*/
+
 }
