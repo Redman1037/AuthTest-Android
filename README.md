@@ -29,7 +29,8 @@ _Please add here any comments about decisions you made while implementing the re
 - Disclaimers :- 
  1. Sorry I took more than 4 hours (about 5-6 hours) , I was enjoying the task .
  2. Copied some generic code from my templete project
- 3. Didn't clean up code because of time 
+ 3. I could have done few more enhancemenrs and clean up code but didn't do because of time 
+ 
  
  Libraries used:-
  
@@ -41,4 +42,4 @@ _Please add here any comments about decisions you made while implementing the re
 - Would like to used Moshi instead of Gson if I had some time 
 - Hilt for dependency injection , I am not an expert in dependency injection and hilt make things little easier
 
-
+You can download the apk over [here](https://github.com/Redman1037/AuthTest-Android/releases/download/V1.0/Authtest.debug.V1.0.8-07-2021.apk)
