@@ -25,3 +25,19 @@ Please complete the following tasks to help us better address your Android exper
 
 ## Your thoughts
 _Please add here any comments about decisions you made while implementing the requested changes, reasoning about any dependencies you may have added to the project, any issues you may have faced, problematic code you would like to change..._
+
+- Disclaimers :- 
+ 1. Sorry I took more than 4 hours about 5 hours , I was enjoying the task .
+ 2. Copied some generic code from my templete project
+ 3. Didn't clean up code because of time 
+ 
+ 
+- Used Navigation component as its new recommended way and I like working with it as maintaining backstack is easier
+- Used lottie for animating loading bar 
+- Used TSnackBar for showing error/success messages as it looks better than normal snackbar at bottom
+- Used com.pddstudio:encrypted-preferences for encrypting shared preferences , there are better ways to do it but used it to get work done faster
+- Used Retrofit for networking and glide for image loading as they are almost standard for android development
+- Would like to used Moshi instead of Gson if I had some time 
+- Hilt for dependency injection , I am not an expert in dependency injection and hilt make things little easier
+
+
