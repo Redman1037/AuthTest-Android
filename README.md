@@ -31,6 +31,7 @@ _Please add here any comments about decisions you made while implementing the re
  2. Copied some generic code from my templete project
  3. Didn't clean up code because of time 
  
+ Libraries used:-
  
 - Used Navigation component as its new recommended way and I like working with it as maintaining backstack is easier
 - Used lottie for animating loading bar 
