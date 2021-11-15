@@ -13,7 +13,7 @@ class AuthTestApplication:Application() {
     }
 
     companion object{
-
+	
         var application:Application?=null
 
         fun getContext():Context{
